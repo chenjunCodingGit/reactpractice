@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 class DateTime extends Component {
   constructor () {
-    super()
+    super();
     this.state = {
       date: new Date()
     }
